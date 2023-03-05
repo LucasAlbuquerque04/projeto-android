@@ -20,7 +20,7 @@
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif; 
     --fonte-destaque:'Bebas Neue', cursive;
-    --fonte-android: 'Android';
+    --fonte-android: 'Android', sans-serif, monospace, Arial, ;
 }
 
 * {
@@ -69,7 +69,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 
 }
